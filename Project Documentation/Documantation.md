@@ -192,7 +192,7 @@ dashboard and reduced the risk of inaccurate analytical results.
 
 ## Dashboard Preview Image
 
-![E-Commerce Sales Growth Dashboard](./E-Commerce_Sales_Analysis_Preview.png)
+![E-Commerce Sales Growth Dashboard](../E-Commarce_Sales_Analysis_Preview.png)
 
 ## Preview Link
 
