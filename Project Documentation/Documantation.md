@@ -196,7 +196,7 @@ dashboard and reduced the risk of inaccurate analytical results.
 
 ## Preview Link
 
-[Open E-Commerce Sales Growth Dashboard Preview](./E-Commerce_Sales_Analysis_Preview.png)
+[Open E-Commerce Sales Growth Dashboard Preview](../E-Commarce_Sales_Analysis_Preview.png)
 
 ## Power BI Dashboard File
 
