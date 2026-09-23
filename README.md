@@ -369,7 +369,7 @@ The DAX formulas are maintained separately in the Dax Formula folder.
 
 ### DAX Documentation Folder
 
-[View DAX Formula Documentation](./Dax%20Formula/)
+[View DAX Formula Documentation](./Dax%20Formula%20)
 
 The folder contains documentation related to:
 
@@ -441,6 +441,9 @@ Business Performance Analysis
 Data-Driven Decision Support
 
 ```
+
+---
+
 ## Repository Structure
 ```
 E-Commerce-Sales-Analysis-PowerBI/
@@ -615,5 +618,5 @@ real-world business reporting challenges.
 - [Dashboard Preview](./E-Commarce_Sales_Analysis_Preview.png)
 - [Power BI Dashboard File](./E-Commarce_Sales_Analysis.pbix)
 - [Dataset Folder](./Data%20Set/)
-- [DAX Formula Folder](./Dax%Formula/)
+- [DAX Formula Folder](./Dax%20Formula%20)
 - [KPI Logo Assets](./KPIs%20Logo/)
