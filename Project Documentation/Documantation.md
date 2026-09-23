@@ -200,7 +200,7 @@ dashboard and reduced the risk of inaccurate analytical results.
 
 ## Power BI Dashboard File
 
-[Open Power BI Dashboard File](./eCommerce_Sales_Dashboard.pbix)
+[Open Power BI Dashboard File](../E-Commarce_Sales_Analysis.pbix)
 
 The Power BI file can be downloaded and opened using Microsoft Power BI
 Desktop.
@@ -557,12 +557,12 @@ Management can use the dashboard to:
 The detailed DAX formulas are maintained separately in the DAX Formula
 documentation folder.
 
-- [Calendar Table Measures](./Dax%20Formula/Calender_Table_Measures.md)
-- [Sales Performance Measures](./Dax%20Formula/Sales_Performance_Measures.md)
-- [Profit Performance Measures](./Dax%20Formula/Profit_Performance_Measures.md)
-- [Profit Margin Measures](./Dax%20Formula/Profit_Margin_Measures.md)
+- [Calendar Table Measures](../Dax%20Formula/Calender_Table_Measures.md)
+- [Sales Performance Measures](../Dax%20Formula/Sales_Performance_Measures.md)
+- [Profit Performance Measures](../Dax%20Formula/Profit_Performance_Measures.md)
+- [Profit Margin Measures](../Dax%20Formula/Profit_Margin_Measures.md)
 - [Orders Performance Measures](./Dax%20Formula/Orders_Performance_Measures.md)
-- [Quantity Performance Measures](./Dax%20Formula/Quantity_Performance_Measures.md)
+- [Quantity Performance Measures](../Dax%20Formula/Quantity_Performance_Measures.md)
 
 ---
 
@@ -577,7 +577,7 @@ The project dataset is stored in the Data Set folder.
 
 ## Dataset Folder
 
-[View Dataset Folder](./Data%20Set/)
+[View Dataset Folder](../Data%20Set/)
 
 ## Dataset Usage
 
@@ -600,7 +600,7 @@ The project contains visual assets used for KPI presentation.
 
 ## KPI Asset Folder
 
-[View KPI Logo Assets](./KPIs%20Logo/)
+[View KPI Logo Assets](../KPIs%20Logo/)
 
 ## Available Assets
 
@@ -613,12 +613,12 @@ The project contains visual assets used for KPI presentation.
 
 ## Asset Links
 
-- [E-Commerce Logo](./KPIs%20Logo/E-Commerce_logo.png)
-- [Margin Logo](./KPIs%20Logo/Margin_logo.png)
-- [Orders Logo](./KPIs%20Logo/Orders_logo.png)
-- [Profit Logo](./KPIs%20Logo/Profit_logo.png)
-- [Quantity Logo](./KPIs%20Logo/Quantity_logo.png)
-- [Sales Logo](./KPIs%20Logo/Sales_logo.png)
+- [E-Commerce Logo](../KPIs%20Logo/E-Commerce_logo.png)
+- [Margin Logo](../KPIs%20Logo/Margin_logo.png)
+- [Orders Logo](../KPIs%20Logo/Orders_logo.png)
+- [Profit Logo](../KPIs%20Logo/Profit_logo.png)
+- [Quantity Logo](../KPIs%20Logo/Quantity_logo.png)
+- [Sales Logo](../KPIs%20Logo/Sales_logo.png)
 
 ---
 
@@ -830,9 +830,9 @@ The project contains the following deliverables:
 
 ## Documentation Links
 
-- [DAX Formula Documentation](./Dax%20Formula/)
-- [Dataset Folder](./Data%20Set/)
-- [KPI Logo Assets](./KPIs%20Logo/)
+- [DAX Formula Documentation](../Dax%20Formula/)
+- [Dataset Folder](../Data%20Set/)
+- [KPI Logo Assets](../KPIs%20Logo/)
 
 ---
 
@@ -990,10 +990,10 @@ data analytics in solving real-world business reporting requirements.
 
 # 24. Project Links
 
-- [Dashboard Preview](./E-Commerce_Sales_Analysis_Preview.png)
-- [Power BI Dashboard File](./eCommerce_Sales_Dashboard.pbix)
-- [DAX Formula Documentation](./Dax%20Formula/)
-- [Dataset Folder](./Data%20Set/)
-- [KPI Logo Assets](./KPIs%20Logo/)
+- [Dashboard Preview](../E-Commerce_Sales_Analysis_Preview.png)
+- [Power BI Dashboard File](../eCommerce_Sales_Dashboard.pbix)
+- [DAX Formula Documentation](../Dax%20Formula/)
+- [Dataset Folder](../Data%20Set/)
+- [KPI Logo Assets](../KPIs%20Logo/)
 
 ---
