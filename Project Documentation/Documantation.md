@@ -997,10 +997,10 @@ data analytics in solving real-world business reporting requirements.
 
 # 24. Project Links
 
-- [Dashboard Preview](../E-Commerce_Sales_Analysis_Preview.png)
+- [Dashboard Preview](../../E-Commerce_Sales_Analysis_Preview.png)
 - [Power BI Dashboard File](../E-Commarce_Sales_Analysis.pbix)
-- [DAX Formula Documentation](../Dax%Formula/)
-- [Dataset Folder](../Data%Set/)
-- [KPI Logo Assets](../KPIs%Logo/)
+- [DAX Formula Documentation](../../Dax%Formula/)
+- [Dataset Folder](../../Data%Set/)
+- [KPI Logo Assets](../../KPIs%Logo/)
 
 ---
