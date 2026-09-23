@@ -27,9 +27,6 @@ opportunities, and support data-driven decision-making.
 
 ![E-Commerce Sales Analysis Dashboard](./E-Commarce_Sales_Analysis_Preview.png)
 
-### View Dashboard Preview
-
-[Open Dashboard Preview](./E-Commarce_Sales_Analysis_Preview.png)
 
 ### Power BI Dashboard
 
@@ -467,9 +464,6 @@ E-Commerce-Sales-Analysis-PowerBI/
 │   ├── Profit_logo.png
 │   ├── Quantity_logo.png
 │   └── Sales_logo.png
-│
-├── Project Documentation/
-│   └── Documentation.md
 │
 ├── E-Commarce_Sales_Analysis.pbix
 ├── E-Commarce_Sales_Analysis_Preview.png
