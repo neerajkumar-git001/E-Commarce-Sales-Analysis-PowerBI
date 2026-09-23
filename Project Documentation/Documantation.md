@@ -557,7 +557,7 @@ Management can use the dashboard to:
 The detailed DAX formulas are maintained separately in the DAX Formula
 documentation folder.
 
-- [Calendar Table Measures](.../Calender_Table_Measures.md)
+- [Calendar Table Measures](Calender_Table__Measures.md)
 - [Sales Performance Measures](../Sales_Performance_Measures.md)
 - [Profit Performance Measures](../Profit_Performance_Measures.md)
 - [Profit Margin Measures](../Profit_Margin_Measures.md)
