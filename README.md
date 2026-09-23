@@ -615,5 +615,5 @@ real-world business reporting challenges.
 - [Dashboard Preview](./E-Commarce_Sales_Analysis_Preview.png)
 - [Power BI Dashboard File](./E-Commarce_Sales_Analysis.pbix)
 - [Dataset Folder](./Data%20Set/)
-- [DAX Formula Folder](./Dax%20Formula/)
+- [DAX Formula Folder](./Dax%Formula/)
 - [KPI Logo Assets](./KPIs%20Logo/)
